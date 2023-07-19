@@ -4,24 +4,34 @@
 
 ## ToDo
 
-- [] DSA
+- [ ] DSA
 
 ### Qs
 
 ## Done
 
-<!-- Slno. [LcNo.] Qs {lang} -->
-1. [2469] Convert the temperature {JS}
-2. [7] Reverse Integer {C++}
-3. [412] Fizz Buzz {Py3}
-4. [231] Power of Two {Py3}
-5. [2727] Is Object Empty {JS} (JS_only, JS30)
-6. [13] Roman to Integer {Py3}
+### Language used
+
+|Lang|Total solved|
+|---|----|
+|JS|3|
+|Py3|6|
+|C++|1|
+
+### Qs solved
 
 |SlNo.|LcNo.|Qs|Lang|
 |--|--|-----|-----|
-|01|2469|Convert the Temperature|JS|
-|01|7|Reverse Integer|C++|
+|01|2469|Convert the Temperature|JS Py|
+|02|7|Reverse Integer|C++|
+|03|412|Fizz Buzz|Py3|
+|04|231|Power of Two|Py3|
+|05|2727|Is Object Empty|JS JSonly|
+|06|13|Roman to Integer|Py3|
+|07|28|Find the Index of the First Occurrence in a String|Py3 JS|
+|08|1757|Recyclable and Low Fat Products|MySQL MS-SQL-Server Oracle|
+<!-- |09|||| -->
+<!-- |10|||| -->
 
 ## Issues
 
