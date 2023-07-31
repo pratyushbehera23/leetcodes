@@ -1,5 +1,0 @@
-# Database related questions
-
-Languages: 
-- SQL [ MySQL, MS-SQL-Server, Oracle ]
-- Python Pandas

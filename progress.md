@@ -15,8 +15,24 @@
 |Lang|Total solved|
 |---|----|
 |JS|3|
-|Py3|6|
-|C++|1|
+|Py3|8|
+|C++|2|
+|SQL|8|
+|||
+
+#### DSA Qs
+
+C C++ Java Python
+JS TS Dart
+
+#### Other Qs
+
+Shell
+
+#### Database related Qs
+
+- SQL [ MySQL, MS-SQL-Server, Oracle ]
+- Python Pandas
 
 ### Qs solved
 
